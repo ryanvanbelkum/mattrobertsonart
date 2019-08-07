@@ -11,12 +11,13 @@ const IndexPage = () => (
     </div>
     <h1>In order to get your domain back, please complete and document the following items:</h1>
     <ul style={{padding: `0 1rem`}}>
-      <li>Rub your wife's feet for 10 minutes</li>
+      <li>Rub your wife's back or feet for 10 minutes</li>
       <li>Pay for the round of coffee next Monday morning</li>
-      <li>Drive to the Boathouse and buy a bean burger</li>
+      <li>Take both Arthur and Alice on a date (separately)</li>
       <li>Chug a gallon of milk while teaching class</li>
       <li>Do more art stuff</li>
     </ul>
+    <p>You may opt out of these items buy making a charitable donation of $75 to Wellspring Community Church</p>
   </Layout>
 )
 
