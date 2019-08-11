@@ -17,7 +17,9 @@ const IndexPage = () => (
       <li>Chug a gallon of milk while teaching class</li>
       <li>Do more art stuff</li>
     </ul>
-    <p>You may opt out of these items buy making a charitable donation of $75 to Wellspring Community Church</p>
+    <p>You may opt out of these items by making a charitable donation of $75 to Wellspring Community Church *</p>
+    <br />
+    <em>* CASH ONLY: must submit photo of payment exchanging hands. No other forms of collateral accepted. Not even Bitcoin.</em>
   </Layout>
 )
 
